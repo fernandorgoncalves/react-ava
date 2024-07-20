@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+.menu ul li{ 
+    font-size: 15px;
+    list-style: none;
+
+    color: black !important;
+}
+.menu ul li a{
+    text-decoration: none;
+}
